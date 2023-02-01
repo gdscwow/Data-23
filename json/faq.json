@@ -6,5 +6,9 @@
   {
     "question": "What is GDSC WoW?",
     "answer": "GDSC Wow refers to the Google Developer Student Club Wonders of Wonders. It is a student-led initiative aimed at promoting technology and computer science by offering hands-on workshops and technical events for students interested in learning and improving their skills. The focus of GDSC Wow is to create a supportive community of students who are passionate about technology and motivated to make a positive impact through their projects and initiatives."
+  },
+  {
+    "question": "Which regions are going to have WoW?",
+    "answer": "GDSC WoW is going to be hosted at multiple regions pan India. You can <a href=`/regions`>click here</a> to check out"
   }
 ]
