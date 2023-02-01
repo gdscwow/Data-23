@@ -9,6 +9,6 @@
   },
   {
     "question": "Which regions have WoW?",
-    "answer": "GDSC WoW is going to be hosted at multiple regions pan India. You can <a href="/regions">click here</a> to check out"
+    "answer": "GDSC WoW is going to be hosted at multiple regions pan India. You can <a href=`/regions`>click here</a> to check out"
   }
 ]
